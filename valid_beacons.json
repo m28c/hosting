@@ -1,0 +1,16 @@
+{
+    "valid_beacons": [
+        {
+            "maior": "4",
+            "minor": "1760"
+        },
+        {
+            "maior": "4",
+            "minor": "1768"
+        },
+        {
+            "maior": "4",
+            "minor": "1765"
+        }
+    ]
+}
