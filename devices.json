@@ -6,6 +6,12 @@
             "mac": "ca:46:74:32:f0:35",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
+          {
+            "type": "foot",
+            "name": "soletta2",
+            "mac": "ca:46:74:32:f0:36",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
         {
             "type": "belt",
             "name": "cintura",
