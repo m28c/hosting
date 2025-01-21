@@ -1,0 +1,24 @@
+{
+    "terapia aa": {
+        "descrizione": "8:00",
+        "id": "aa",
+        "farmaco 0a": {
+            "foglietto_illustrativo": "aaa",
+            "id": "0a",
+            "nome": "Tachipirina"
+        },
+        "id_paziente": "1",
+        "orario_emissione": "8:00"
+    },
+    "terapia ab": {
+        "descrizione": "9:00",
+        "id": "ab",
+        "farmaco 0c": {
+            "foglietto_illustrativo": "ccc",
+            "id": "0c",
+            "nome": "Benactive"
+        },
+        "id_paziente": "1",
+        "orario_emissione": "9:00"
+    }
+}
