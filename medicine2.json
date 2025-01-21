@@ -3,7 +3,7 @@
         "descrizione": "8:00",
         "id": "aa",
         "farmaco 0a": {
-            "foglietto_illustrativo": "aaa",
+            "foglietto_illustrativo": "https://medicinali.aifa.gov.it/it/#/it/organizzazione/219/farmaci/12745/stampati/FI",
             "id": "0a",
             "nome": "Tachipirina"
         },
@@ -14,9 +14,9 @@
         "descrizione": "9:00",
         "id": "ab",
         "farmaco 0c": {
-            "foglietto_illustrativo": "ccc",
+            "foglietto_illustrativo": "https://medicinali.aifa.gov.it/it/#/it/organizzazione/4157/farmaci/22593/stampati/FI",
             "id": "0c",
-            "nome": "Benactive"
+            "nome": "Brufen"
         },
         "id_paziente": "1",
         "orario_emissione": "9:00"
