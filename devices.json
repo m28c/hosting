@@ -9,7 +9,7 @@
         },
         {
             "id": "01(sx)",
-            "type": "soletta",
+            "type": "cintura",
             "name": "belt2",
             "mac": "2d:30:9d:1d:f3:b3",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
