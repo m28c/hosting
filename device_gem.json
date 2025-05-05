@@ -7,7 +7,7 @@
                 "deviceType": {
                     "id": 3,
                     "title": "Maglietta",
-                    "description": "Maglietta smart",
+                    "description": "Maglietta smart 1",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
                 "user": {
@@ -34,7 +34,7 @@
                 "deviceType": {
                     "id": 3,
                     "title": "Maglietta",
-                    "description": "Maglietta smart",
+                    "description": "Maglietta smart 2",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
                 "user": {
