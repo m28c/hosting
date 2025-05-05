@@ -1,0 +1,68 @@
+{
+    "payload": {
+        "data": [
+            {
+                "id": 25,
+                "description": "Maglietta Smart #564368",
+                "deviceType": {
+                    "id": 3,
+                    "title": "Maglietta",
+                    "description": "Maglietta smart",
+                    "createdAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "user": {
+                    "id": 18,
+                    "name": "John",
+                    "surname": "Doe",
+                    "email": "john.doe@example.com",
+                    "gender": "MALE",
+                    "birthDate": "1990-01-01",
+                    "birthLocation": "New York",
+                    "residenceAddress": "123 Main St",
+                    "taxIdCode": "ABCDEF12G34H567I",
+                    "phone": "+1234567890",
+                    "healthStatus": "Stable",
+                    "userTypeName": "Patient"
+                },
+                "customAttributes": {},
+                "createdAt": "2024-08-06T13:07:54.001+00:00",
+                "updatedAt": "2024-08-06T13:07:54.001+00:00",
+            },
+            {
+                "id": 25,
+                "description": "Maglietta Smart #984516",
+                "deviceType": {
+                    "id": 3,
+                    "title": "Maglietta",
+                    "description": "Maglietta smart",
+                    "createdAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "user": {
+                    "id": 54,
+                    "name": "Jane",
+                    "surname": "Doe",
+                    "email": "john.doe@example.com",
+                    "gender": "FEMALE",
+                    "birthDate": "1990-01-01",
+                    "birthLocation": "New York",
+                    "residenceAddress": "123 Main St",
+                    "taxIdCode": "ABCDEF12G34H567I",
+                    "phone": "+1234567890",
+                    "healthStatus": "Stable",
+                    "userTypeName": "Patient"
+                },
+                "customAttributes": {},
+                "createdAt": "2024-08-06T13:07:54.001+00:00",
+                "updatedAt": "2024-08-06T13:07:54.001+00:00",
+            }
+        ],
+        "pagination": {
+            "total": 44,
+            "lastPage": 5,
+            "currentPage": 1,
+            "limit": 10
+        }
+    },
+    "timestamp": 1746027806199,
+    "error": false
+}
