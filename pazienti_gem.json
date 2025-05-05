@@ -1,1 +1,43 @@
 
+{
+     "payload": {
+         "data": [
+             {
+                 "id": 18,
+                 "name": "John",
+                 "surname": "Doe",
+                 "email": "john.doe@example.com",
+                 "gender": "MALE",
+                 "birthDate": "1990-01-01",
+                 "birthLocation": "New York",
+                 "residenceAddress": "123 Main St",
+                 "taxIdCode": "ABCDEF12G34H567I",
+                 "phone": "+1234567890",
+                 "healthStatus": "Stable",
+                 "userTypeName": "Patient"
+             },
+             {
+                 "id": 54,
+                 "name": "Jane",
+                 "surname": "Doe",
+                 "email": "john.doe@example.com",
+                 "gender": "FEMALE",
+                 "birthDate": "1990-01-01",
+                 "birthLocation": "New York",
+                 "residenceAddress": "123 Main St",
+                 "taxIdCode": "ABCDEF12G34H567I",
+                 "phone": "+1234567890",
+                 "healthStatus": "Stable",
+                 "userTypeName": "Patient"
+             }
+         ],
+         "pagination": {
+             "total": 2,
+             "lastPage": 1,
+             "currentPage": 1,
+             "limit": 10
+         }
+     },
+     "timestamp": 1746027476097,
+     "error": false
+ }
