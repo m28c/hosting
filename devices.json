@@ -36,7 +36,7 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-        "id": "05",
+        "id": 5,
             "type": "cintura",
             "name": "belt",
             "mac": "74:06:95:26:71:d8",
