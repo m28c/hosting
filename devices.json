@@ -15,7 +15,7 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-            "id": "02",
+            "id": 4,
             "type": "cintura",
             "name": "Smart Belt",
             "mac": "99:d9:08:5d:0e:98",
@@ -36,7 +36,7 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-        "id": 4,
+        "id": 4b,
             "type": "cintura",
             "name": "Smart Belt1",
             "mac": "74:06:95:26:71:d8",
