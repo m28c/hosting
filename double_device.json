@@ -99,7 +99,7 @@
                 "description": "",
                 "deviceType": {
                     "id": 4,
-                    "title": "Smart Belt",
+                    "title": "Smart Belt1",
                     "description": "Cintura Smart",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
@@ -131,8 +131,8 @@
                 "id": 29,
                 "description": "",
                 "deviceType": {
-                    "id": 4,
-                    "title": "Smart Belt",
+                    "id": 5,
+                    "title": "Smart Belt2",
                     "description": "Cintura Smart",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
