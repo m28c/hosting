@@ -166,7 +166,7 @@
                 "deviceType": {
                     "id": 6,
                     "title": "Smart Footbed1",
-                    "description": "Plantare Smart1",
+                    "description": "Plantare Smart",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
                 "user": {
@@ -199,7 +199,7 @@
                 "deviceType": {
                     "id": 5,
                     "title": "Smart Footbed2",
-                    "description": "Plantare Smart2",
+                    "description": "Plantare Smart",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
                 "user": {
