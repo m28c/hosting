@@ -99,7 +99,7 @@
                 "description": "",
                 "deviceType": {
                     "id": 4,
-                    "title": "Smart Belt1",
+                    "title": "Smart Belt",
                     "description": "Cintura Smart",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
@@ -127,39 +127,6 @@
                 "updatedAt": "2024-08-06T12:53:21.504+00:00",
                 "monitored": false
             },
-			{
-                "id": 29,
-                "description": "",
-                "deviceType": {
-                    "id": 5,
-                    "title": "Smart Belt2",
-                    "description": "Cintura Smart",
-                    "createdAt": "2025-01-31T02:42:09.000+00:00"
-                },
-                "user": {
-                    "id": 1,
-                    "name": "Mario",
-                    "surname": "Rossi",
-                    "email": "mario.rossi@example.com",
-                    "gender": "MALE",
-                    "birthDate": "1990-01-01",
-                    "birthLocation": "New York",
-                    "taxIdCode": "PLLPCI90A01Z404Y",
-                    "phone": "3216549870",
-                    "bloodGroup": "0-",
-                    "firebaseToken": [],
-                    "healthStatus": "Stable",
-                    "userTypeName": "Patient",
-                    "footMeasure": 40,
-                    "height": 175
-                },
-                "customAttributes": {
-                    "mac": "67:37:49:6D:91:1B"
-                },
-                "createdAt": "2024-08-06T12:53:21.504+00:00",
-                "updatedAt": "2024-08-06T12:53:21.504+00:00",
-                "monitored": false
-            }
             {
                 "id": 30,
                 "description": "",
@@ -198,8 +165,41 @@
                 "description": "",
                 "deviceType": {
                     "id": 6,
-                    "title": "Smart Footbed",
-                    "description": "Plantare Smart",
+                    "title": "Smart Footbed1",
+                    "description": "Plantare Smart1",
+                    "createdAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "user": {
+                    "id": 1,
+                    "name": "Mario",
+                    "surname": "Rossi",
+                    "email": "mario.rossi@example.com",
+                    "gender": "MALE",
+                    "birthDate": "1990-01-01",
+                    "birthLocation": "New York",
+                    "taxIdCode": "PLLPCI90A01Z404Y",
+                    "phone": "3216549870",
+                    "bloodGroup": "0-",
+                    "firebaseToken": [],
+                    "healthStatus": "Stable",
+                    "userTypeName": "Patient",
+                    "footMeasure": 40,
+                    "height": 175
+                },
+                "customAttributes": {
+                    "mac": "CA:46:74:32:F0:35"
+                },
+                "createdAt": "2024-08-06T12:53:21.504+00:00",
+                "updatedAt": "2024-08-06T12:53:21.504+00:00",
+                "monitored": false
+            },
+			{
+                "id": 31,
+                "description": "",
+                "deviceType": {
+                    "id": 5,
+                    "title": "Smart Footbed2",
+                    "description": "Plantare Smart2",
                     "createdAt": "2025-01-31T02:42:09.000+00:00"
                 },
                 "user": {
