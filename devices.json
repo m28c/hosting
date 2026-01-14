@@ -50,7 +50,7 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-            "id": 4,
+            "id": "4",
             "type": "cintura",
             "name": "Smart Belt",
             "mac": "a1:82:7e:06:e2:09",
