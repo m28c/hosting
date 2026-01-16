@@ -2,56 +2,56 @@
     "devices": [
          {
             "id": "01(dx)",
-            "type": "soletta",
+            "type": "Plantare Smart",
             "name": "foot(dx)",
             "mac": "ca:46:74:32:f0:35",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
             "id": "01(sx)",
-            "type": "cintura",
+            "type": "Cintura Smart",
             "name": "belt2",
             "mac": "2d:30:9d:1d:f3:b3",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
             "id": 44,
-            "type": "cintura",
+            "type": "Cintura Smart",
             "name": "Smart Belt1",
             "mac": "99:d9:08:5d:0e:98",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
             "id": 5,
-            "type": "bracciale",
+            "type": "Braccialetto Smart",
             "name": "Smart Bracelet",
             "mac": "67:37:49:6d:91:1b",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
             "id": "04b",
-            "type": "bracciale",
+            "type": "Braccialetto Smart",
             "name": "bracelet0",
             "mac": "67:37:49:6d:91:1b",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
         "id": "4b",
-            "type": "cintura",
+            "type": "Cintura Smart",
             "name": "Smart Belt1",
             "mac": "74:06:95:26:71:d8",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
         "id": "5b",
-            "type": "cintura",
+            "type": "Cintura Smart",
             "name": "belt5",
             "mac": "74:06:95:26:71:d8",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
             "id": "4",
-            "type": "cintura",
+            "type": "Cintura Smart",
             "name": "Smart Belt",
             "mac": "04:70:ec:89:63:72",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
