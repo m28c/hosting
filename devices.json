@@ -51,7 +51,7 @@
         },
         {
             "id": "4",
-            "type": "Cintura Smart",
+            "type": "cintura",
             "name": "Smart Belt",
             "mac": "04:70:ec:89:63:72",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
