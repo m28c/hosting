@@ -3,7 +3,7 @@
          {
             "id": "6",
             "type": "Plantare Smart",
-            "name": "Smart Footbed",
+            "name": "Smart Foot",
             "mac": "cd:4c:9d:c4:a8:72",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
             "code": "MD25207340022"
