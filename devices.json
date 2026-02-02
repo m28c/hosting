@@ -23,8 +23,8 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-            "id": "5maug",
-            "type": "Braccialetto Smart",
+            "id": "5Maug",
+            "type": "Braccialetto Smart(Maug)",
             "name": "Smart Bracelet",
             "mac": "90:ca:fb:6e:6f:f9",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
@@ -59,8 +59,8 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-            "id": "4 maug",
-            "type": "Cintura Smart",
+            "id": "4Maug",
+            "type": "Cintura Smart(Maug)",
             "name": "Smart Belt",
             "mac": "a1:82:7e:06:e2:09",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
