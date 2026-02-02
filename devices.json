@@ -23,12 +23,19 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-            "id": "5",
+            "id": "5maug",
             "type": "Braccialetto Smart",
             "name": "Smart Bracelet",
             "mac": "90:ca:fb:6e:6f:f9",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
             "code": "MD25207340001"
+        },
+        {
+            "id": "5",
+            "type": "Braccialetto Smart",
+            "name": "Smart Bracelet",
+            "mac": "4f:4f:81:2f:75:0b",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
             "id": "04b",
