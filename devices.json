@@ -90,17 +90,17 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
-            "id": "4tb",
-            "type": "Cintura Smart(test con portabatteria)",
+            "id": "4",
+            "type": "Cintura Smart",
             "name": "Smart Belt",
             "mac": "04:70:ec:89:63:72",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
             "code": "MD25207340031"
         },
         {
-            "id": "4",
+            "id": "4(doppio sensore)",
             "type": "Cintura Smart",
-            "name": "Smart Belt",
+            "name": "Smart Belt1",
             "mac": "da:9e:46:ec:3f:fa",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
             "code": "MD25207340037"
