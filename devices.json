@@ -63,14 +63,14 @@
         {
             "id": "5",
             "type": "Smart Bracelet",
-            "name": "Braccialetto Smart",
+            "name": "Braccialetto smart",
             "mac": "4f:4f:81:2f:75:0b",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
             "id": "83",
             "type": "Smart Belt",
-            "name": "Cintura Smart",
+            "name": "Cintura smart",
             "mac": "da:9e:46:ec:3f:fa",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
