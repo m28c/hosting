@@ -1,6 +1,20 @@
 {
     "devices": [
          {
+            "id": "96",
+            "type": "Smart Footbed",
+            "name": "Soletta Dx",
+            "mac": "06:da:63:c4:ca:7d",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
+            "id": "95",
+            "type": "Smart Footbed",
+            "name": "Soletta Sx",
+            "mac": "f0:8d:b1:3a:f9:e5",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+         {
             "id": "6old",
             "type": "Plantare Smart",
             "name": "Smart Footbed",
@@ -48,9 +62,16 @@
         },
         {
             "id": "5",
-            "type": "Braccialetto Smart",
-            "name": "Smart Bracelet",
+            "type": "Smart Bracelet",
+            "name": "Braccialetto Smart",
             "mac": "4f:4f:81:2f:75:0b",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
+            "id": "83",
+            "type": "Smart Belt",
+            "name": "Cintura Smart",
+            "mac": "da:9e:46:ec:3f:fa",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
