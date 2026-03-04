@@ -60,17 +60,31 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
             "code": "MD25207340001"
         },
-        {
+         {
             "id": "5",
             "type": "Smart Bracelet",
             "name": "Braccialetto smart",
-            "mac": "4f:4f:81:2f:75:0b",
+            "mac": "3a:31:26:48:9c:8e",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
+            "id": "5(old)",
+            "type": "Smart Bracelet",
+            "name": "Braccialetto smart(old)",
+            "mac": "4f:4f:81:2f:75:0b",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+         {
             "id": "83",
             "type": "Smart Belt",
             "name": "Cintura smart",
+            "mac": "2b:17:f1:7e:5c:a7",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
+            "id": "83(old)",
+            "type": "Smart Belt",
+            "name": "Cintura smart(old)",
             "mac": "da:9e:46:ec:3f:fa",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
