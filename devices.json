@@ -4,6 +4,14 @@
             "id": "96",
             "type": "Smart Footbed",
             "name": "Soletta Dx",
+            "mac": "09:92:B8:20:4B:99",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
+            "code": "MD25207340019"
+        },
+        {
+            "id": "96",
+            "type": "Smart Footbed",
+            "name": "Soletta Dx(old)",
             "mac": "06:da:63:c4:ca:7d",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
@@ -11,7 +19,7 @@
             "id": "95",
             "type": "Smart Footbed",
             "name": "Soletta Sx",
-            "mac": "f0:8d:b1:3a:f9:e5",
+            "mac": "F0:8D:B1:3A:F9:E5",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
