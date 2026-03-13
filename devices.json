@@ -1,7 +1,7 @@
 {
     "devices": [
          {
-            "id": "96",
+            "id": "96(a Telese)",
             "type": "Smart Footbed",
             "name": "Soletta Dx",
             "mac": "09:92:B8:20:4B:99",
@@ -9,17 +9,24 @@
             "code": "MD25207340019"
         },
         {
-            "id": "96(old)",
+            "id": "96",
             "type": "Smart Footbed",
-            "name": "Soletta Dx(old)",
+            "name": "Soletta Dx",
             "mac": "06:da:63:c4:ca:7d",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
+            "id": "95(a Telese)",
+            "type": "Smart Footbed",
+            "name": "Soletta Sx",
+            "mac": "F0:8D:B1:3A:F9:E5",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
             "id": "95",
             "type": "Smart Footbed",
             "name": "Soletta Sx",
-            "mac": "F0:8D:B1:3A:F9:E5",
+            "mac": "52:8A:0C:B1:4D:68",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
