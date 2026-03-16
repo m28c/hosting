@@ -23,10 +23,17 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
+            "id": "95(vecchia versione)",
+            "type": "Smart Footbed(vecchia versione)",
+            "name": "Soletta Sx",
+            "mac": "52:8A:0C:B1:4D:68",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
             "id": "95",
             "type": "Smart Footbed",
             "name": "Soletta Sx",
-            "mac": "52:8A:0C:B1:4D:68",
+            "mac": "7D:58:3D:AA:6B:56",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
