@@ -99,7 +99,7 @@
          {
             "id": "83old",
             "type": "Smart Belt",
-            "name": "Cintura smart",
+            "name": "Cintura smart(old)",
             "mac": "2B:17:F1:7E:5C:A7",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
