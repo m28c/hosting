@@ -2,7 +2,7 @@
     "devices": [
          {
             "id": "96(a Telese)",
-            "type": "Smart Footbed",
+            "type": "Smart Footbed-",
             "name": "Soletta Dx",
             "mac": "09:92:B8:20:4B:99",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
@@ -17,7 +17,7 @@
         },
         {
             "id": "95(a Telese)",
-            "type": "Smart Footbed",
+            "type": "Smart Footbed-",
             "name": "Soletta Sx",
             "mac": "F0:8D:B1:3A:F9:E5",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
