@@ -90,9 +90,9 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
-            "id": "5",
+            "id": "5(con piano di massa)",
             "type": "Smart Bracelet",
-            "name": "Braccialetto smart",
+            "name": "Braccialetto smart(con piano di massa)",
             "mac": "3A:31:26:48:9C:8E",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
