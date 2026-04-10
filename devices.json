@@ -4,7 +4,7 @@
             "id": "96(a Telese)",
             "type": "Smart Footbed-",
             "name": "Soletta Dx",
-            "mac": "09:92:B8:20:4B:99",
+            "mac": "5E:E3:F0:0D:71:21",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb",
             "code": "MD25207340019"
         },
@@ -26,7 +26,7 @@
             "id": "95(vecchia versione)",
             "type": "Smart Footbed(vecchia versione)",
             "name": "Soletta Sx",
-            "mac": "52:8A:0C:B1:4D:68",
+            "mac": "A1:61:90:EB:A7:30",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
