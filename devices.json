@@ -86,7 +86,7 @@
             "id": "5",
             "type": "Smart Bracelet",
             "name": "Braccialetto smart",
-            "mac": "AE:8E:B8:D6:58:DF",
+            "mac": "AE:8E:B8:D6:58:5F",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
