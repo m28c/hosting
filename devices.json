@@ -12,7 +12,7 @@
             "id": "96",
             "type": "Smart Footbed",
             "name": "Soletta Dx",
-            "mac": "9B:FA:57:63:C4:28",
+            "mac": "88:2C:97:13:F9:2E",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
@@ -33,7 +33,7 @@
             "id": "95",
             "type": "Smart Footbed",
             "name": "Soletta Sx",
-            "mac": "F5:04:D1:47:20:D0",
+            "mac": "B5:36:4B:D3:B9:42",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
