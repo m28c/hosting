@@ -9,10 +9,17 @@
             "code": "MD25207340019"
         },
         {
+            "id": "96(consegnata)",
+            "type": "Smart Footbed(consegnata)",
+            "name": "Soletta Dx",
+            "mac": "06:DA:63:C4:CA:7D",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
             "id": "96",
             "type": "Smart Footbed",
             "name": "Soletta Dx",
-            "mac": "06:DA:63:C4:CA:7D",
+            "mac": "58:60:F3:DC:DE:6B",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
@@ -30,10 +37,17 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
+            "id": "95(consegnata)",
+            "type": "Smart Footbed(consegnata)",
+            "name": "Soletta Sx",
+            "mac": "09:92:B8:20:4B:99",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
             "id": "95",
             "type": "Smart Footbed",
             "name": "Soletta Sx",
-            "mac": "09:92:B8:20:4B:99",
+            "mac": "D5:3A:E7:0C:60:2B",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
