@@ -100,14 +100,14 @@
             "id": "5(consegnato)",
             "type": "Smart Bracelet(consegnato)",
             "name": "Braccialetto smart",
-            "mac": "6D:12:A3:AF:78:69",
+            "mac": "FA:5B:4B:8A:A3:83",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
             "id": "5",
             "type": "Smart Bracelet",
             "name": "Braccialetto smart",
-            "mac": "FA:5B:4B:8A:A3:83",
+            "mac": "6D:12:A3:AF:78:69",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
          {
