@@ -97,6 +97,13 @@
             "code": "MD25207340001"
         },
         {
+            "id": "5(consegnato)",
+            "type": "Smart Bracelet(consegnato)",
+            "name": "Braccialetto smart",
+            "mac": "6D:12:A3:AF:78:69",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+        {
             "id": "5",
             "type": "Smart Bracelet",
             "name": "Braccialetto smart",
@@ -125,10 +132,17 @@
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },     
          {
+            "id": "83(consegnata)",
+            "type": "Smart Belt(consegnata)",
+            "name": "Cintura smart",
+            "mac": "30:12:C1:74:EE:5C",
+            "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
+        },
+         {
             "id": "83",
             "type": "Smart Belt",
             "name": "Cintura smart",
-            "mac": "30:12:C1:74:EE:5C",
+            "mac": "AB:78:C2:B2:47:4E",
             "characteristic": "0000fff2-0000-1000-8000-00805f9b34fb"
         },
         {
