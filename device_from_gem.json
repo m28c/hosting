@@ -1,0 +1,1205 @@
+{
+    "payload": {
+        "data": [
+            {
+                "id": 94,
+                "description": "Tag Paziente 1",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {
+                    "lastPosition": "Cucina",
+                    "lastPositionUpdate": 1779801929,
+                    "tag": "1"
+                },
+                "createdAt": "2026-02-05T10:13:22.738+00:00",
+                "updatedAt": "2026-05-26T13:25:30.020+00:00",
+                "monitored": true
+            },
+            {
+                "id": 85,
+                "description": "Tag Paziente 2",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 44,
+                "customAttributes": {
+                    "lastPosition": "Cucina",
+                    "lastPositionUpdate": 1778596524,
+                    "tag": "1"
+                },
+                "createdAt": "2026-02-05T09:35:40.746+00:00",
+                "updatedAt": "2026-05-12T14:35:24.021+00:00",
+                "monitored": true
+            },
+            {
+                "id": 72,
+                "description": "Sensore umidità",
+                "deviceType": {
+                    "id": 10,
+                    "title": "Umidità",
+                    "description": "Sensore che rileva l'umidità relativa nell'aria",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "userId": 29,
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 73,
+                "description": "Sensore temperatura",
+                "deviceType": {
+                    "id": 11,
+                    "title": "Temperatura",
+                    "description": "Sensore che rileva la temperatura ambientale in gradi Celsius",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 74,
+                "description": "Controlla l'alimentazione dei dispositivi elettrici",
+                "deviceType": {
+                    "id": 13,
+                    "title": "Shelly PM Switch",
+                    "description": "Controlla l'alimentazione dei dispositivi elettrici tramite Wi-Fi",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "userId": 29,
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 75,
+                "description": "Sensore temperatura acqua",
+                "deviceType": {
+                    "id": 12,
+                    "title": "Temperatura acqua",
+                    "description": "Sensore che misura la temperatura dell'acqua nei rubinetti",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 76,
+                "description": "Misuratore di potenza elettrica",
+                "deviceType": {
+                    "id": 14,
+                    "title": "Shelly PM Power",
+                    "description": "Misura la potenza elettrica istantanea assorbita",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 79,
+                "description": "Misuratore di consumo energetico",
+                "deviceType": {
+                    "id": 15,
+                    "title": "Shelly PM Energy",
+                    "description": "Misura il consumo energetico in kWh",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 77,
+                "description": "Sensore apertura e chiusura porte",
+                "deviceType": {
+                    "id": 16,
+                    "title": "Contatto",
+                    "description": "Sensore che rileva apertura/chiusura di porte e finestre",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 78,
+                "description": "Sensore apertura e chiusura tende",
+                "deviceType": {
+                    "id": 17,
+                    "title": "Tende",
+                    "description": "Sistema motorizzato per apertura/chiusura tende",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2024-08-06T13:07:54.001+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 64,
+                "description": "Dispenser Medicinali ",
+                "deviceType": {
+                    "id": 3,
+                    "title": "Dispenser medicinali",
+                    "description": "Dispenser medicinali smart",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 29,
+                "customAttributes": {},
+                "createdAt": "2025-02-14T14:11:14.055+00:00",
+                "updatedAt": "2025-06-10T14:20:08.230+00:00",
+                "monitored": false
+            },
+            {
+                "id": 87,
+                "description": "Chiavi",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "customAttributes": {
+                    "lastPosition": null,
+                    "lastPositionUpdate": null
+                },
+                "createdAt": "2026-02-05T09:36:32.930+00:00",
+                "updatedAt": "2026-02-05T09:36:32.930+00:00",
+                "monitored": false
+            },
+            {
+                "id": 88,
+                "description": "Cellulare",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 44,
+                "customAttributes": {
+                    "lastPosition": "Camera da letto",
+                    "lastPositionUpdate": 1778596512,
+                    "tag": "2"
+                },
+                "createdAt": "2026-02-05T09:36:55.861+00:00",
+                "updatedAt": "2026-05-12T14:35:12.071+00:00",
+                "monitored": true
+            },
+            {
+                "id": 90,
+                "description": "Portafoglio",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "customAttributes": {
+                    "lastPosition": null,
+                    "lastPositionUpdate": null
+                },
+                "createdAt": "2026-02-05T09:37:58.477+00:00",
+                "updatedAt": "2026-02-05T09:37:58.477+00:00",
+                "monitored": false
+            },
+            {
+                "id": 91,
+                "description": "Ortesi",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "customAttributes": {
+                    "lastPosition": null,
+                    "lastPositionUpdate": null
+                },
+                "createdAt": "2026-02-05T09:38:23.435+00:00",
+                "updatedAt": "2026-02-05T09:38:23.435+00:00",
+                "monitored": false
+            },
+            {
+                "id": 92,
+                "description": "Strumenti clinici",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "customAttributes": {
+                    "lastPosition": null,
+                    "lastPositionUpdate": null
+                },
+                "createdAt": "2026-02-05T09:39:07.060+00:00",
+                "updatedAt": "2026-02-05T09:39:07.060+00:00",
+                "monitored": false
+            },
+            {
+                "id": 80,
+                "description": "Stampella",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {
+                    "lastPosition": "Camera da letto",
+                    "lastPositionUpdate": 1779802281,
+                    "tag": "3"
+                },
+                "createdAt": "2025-09-24T10:10:19.602+00:00",
+                "updatedAt": "2026-05-26T13:31:22.070+00:00",
+                "monitored": true
+            },
+            {
+                "id": 82,
+                "description": "Smart Devices Gateway",
+                "deviceType": {
+                    "id": 31,
+                    "title": "Gateway",
+                    "description": "Smart Devices Gateway",
+                    "activityDescriptions": []
+                },
+                "userId": 28,
+                "customAttributes": {},
+                "createdAt": "2026-01-28T09:25:09.782+00:00",
+                "updatedAt": "2026-05-06T13:02:03.311+00:00",
+                "monitored": true
+            },
+            {
+                "id": 119,
+                "description": "Smart Devices Gateway",
+                "deviceType": {
+                    "id": 31,
+                    "title": "Gateway",
+                    "description": "Smart Devices Gateway",
+                    "activityDescriptions": []
+                },
+                "userId": 44,
+                "customAttributes": {},
+                "createdAt": "2026-05-06T12:52:24.667+00:00",
+                "updatedAt": "2026-05-06T13:02:12.083+00:00",
+                "monitored": true
+            },
+            {
+                "id": 122,
+                "description": "Smart Devices Gateway",
+                "deviceType": {
+                    "id": 31,
+                    "title": "Gateway",
+                    "description": "Smart Devices Gateway",
+                    "activityDescriptions": []
+                },
+                "userId": 66,
+                "customAttributes": {},
+                "createdAt": "2026-05-06T12:55:04.216+00:00",
+                "updatedAt": "2026-05-06T13:02:22.806+00:00",
+                "monitored": true
+            },
+            {
+                "id": 96,
+                "description": "Soletta Dx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {
+                    "mac": "09:92:B8:20:4B:99"
+                },
+                "createdAt": "2026-02-12T16:33:14.582+00:00",
+                "updatedAt": "2026-03-12T13:56:23.677+00:00",
+                "monitored": true
+            },
+            {
+                "id": 71,
+                "description": "Maglietta smart",
+                "deviceType": {
+                    "id": 1,
+                    "title": "Shirt",
+                    "description": "Maglietta smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 1,
+                            "description": "Avviare misurazione ECG"
+                        }
+                    ],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {},
+                "createdAt": "2025-02-14T14:11:14.055+00:00",
+                "updatedAt": "2026-01-28T09:13:57.820+00:00",
+                "monitored": true
+            },
+            {
+                "id": 62,
+                "description": "Dispenser smart di medicinali",
+                "deviceType": {
+                    "id": 3,
+                    "title": "Dispenser medicinali",
+                    "description": "Dispenser medicinali smart",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {},
+                "createdAt": "2025-02-14T14:09:15.112+00:00",
+                "updatedAt": "2025-06-10T19:03:02.677+00:00",
+                "monitored": true
+            },
+            {
+                "id": 97,
+                "description": "Smart Belt + Smart Bracelet",
+                "deviceType": {
+                    "id": 30,
+                    "title": "Smart Belt + Smart Bracelet",
+                    "description": "Kit Cintura smart + Bracciale Smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 10,
+                            "description": "Avviare misurazione cintura e braccialetto"
+                        }
+                    ]
+                },
+                "userId": 28,
+                "customAttributes": {},
+                "createdAt": "2026-03-31T13:08:14.778+00:00",
+                "updatedAt": "2026-03-31T13:39:21.594+00:00",
+                "monitored": true
+            },
+            {
+                "id": 95,
+                "description": "Soletta Sx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {
+                    "mac": "F0:8D:B1:3A:F9:E5"
+                },
+                "createdAt": "2026-02-12T16:32:23.712+00:00",
+                "updatedAt": "2026-02-12T16:36:05.588+00:00"
+            },
+            {
+                "id": 98,
+                "description": "Soletta Dx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 44,
+                "customAttributes": {
+                    "mac": "20:DE:3B:2A:5F:81"
+                },
+                "createdAt": "2026-05-04T07:45:25.217+00:00",
+                "updatedAt": "2026-05-04T07:45:25.217+00:00",
+                "monitored": false
+            },
+            {
+                "id": 118,
+                "description": "Tag Paziente 3",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 45,
+                "customAttributes": {
+                    "lastPosition": "Cucina",
+                    "lastPositionUpdate": "2026-04-28 13:37:25",
+                    "tag": 1
+                },
+                "createdAt": "2026-05-04T08:07:55.527+00:00",
+                "updatedAt": "2026-05-04T08:07:55.527+00:00",
+                "monitored": false
+            },
+            {
+                "id": 86,
+                "description": "Borsa",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 45,
+                "customAttributes": {
+                    "lastPosition": "Camera da letto",
+                    "lastPositionUpdate": 1776075538,
+                    "tag": "3"
+                },
+                "createdAt": "2026-02-05T09:36:05.633+00:00",
+                "updatedAt": "2026-02-05T09:36:05.633+00:00",
+                "monitored": false
+            },
+            {
+                "id": 89,
+                "description": "Occhiali",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 45,
+                "customAttributes": {
+                    "lastPosition": "Bagno",
+                    "lastPositionUpdate": "2025-09-24T10:15:50.723+00:00",
+                    "tag": "2"
+                },
+                "createdAt": "2026-02-05T09:37:18.412+00:00",
+                "updatedAt": "2026-02-05T09:37:18.412+00:00",
+                "monitored": false
+            },
+            {
+                "id": 83,
+                "description": "Cintura smart",
+                "deviceType": {
+                    "id": 4,
+                    "title": "Smart Belt",
+                    "description": "Cintura smart",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {
+                    "mac": "DA:9E:46:EC:3F:FA"
+                },
+                "createdAt": "2026-01-28T09:32:22.098+00:00",
+                "updatedAt": "2026-02-12T16:34:40.589+00:00",
+                "monitored": true
+            },
+            {
+                "id": 1,
+                "description": "CPAP",
+                "deviceType": {
+                    "id": 2,
+                    "title": "CPAP",
+                    "description": "Respiratore",
+                    "activityDescriptions": [
+                        {
+                            "id": 6,
+                            "description": "Avviare misurazione respiratore"
+                        }
+                    ],
+                    "createdAt": "2025-03-10T18:07:15.458+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-02-14T14:11:36.314+00:00",
+                "updatedAt": "2025-02-14T14:11:36.314+00:00",
+                "monitored": false
+            },
+            {
+                "id": 70,
+                "description": "Beacon",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:32:36.248+00:00",
+                "updatedAt": "2025-03-12T08:32:36.248+00:00",
+                "monitored": false
+            },
+            {
+                "id": 69,
+                "description": "CPAP",
+                "deviceType": {
+                    "id": 2,
+                    "title": "CPAP",
+                    "description": "Respiratore",
+                    "activityDescriptions": [
+                        {
+                            "id": 6,
+                            "description": "Avviare misurazione respiratore"
+                        }
+                    ],
+                    "createdAt": "2025-03-10T18:07:15.458+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:29:07.720+00:00",
+                "updatedAt": "2025-06-10T19:03:12.384+00:00",
+                "monitored": true
+            },
+            {
+                "id": 102,
+                "description": "Soletta Sx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 44,
+                "customAttributes": {
+                    "mac": "7D:58:3D:AA:6B:C6"
+                },
+                "createdAt": "2026-05-04T07:48:55.638+00:00",
+                "updatedAt": "2026-05-04T07:48:55.638+00:00",
+                "monitored": false
+            },
+            {
+                "id": 110,
+                "description": "Cintura smart2",
+                "deviceType": {
+                    "id": 4,
+                    "title": "Smart Belt",
+                    "description": "Cintura smart",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 44,
+                "customAttributes": {
+                    "mac": "30:12:C1:74:EE:5C"
+                },
+                "createdAt": "2026-05-04T07:54:29.788+00:00",
+                "updatedAt": "2026-05-04T08:00:52.927+00:00",
+                "monitored": false
+            },
+            {
+                "id": 114,
+                "description": "Smart Belt + Smart Bracelet",
+                "deviceType": {
+                    "id": 30,
+                    "title": "Smart Belt + Smart Bracelet",
+                    "description": "Kit Cintura smart + Bracciale Smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 10,
+                            "description": "Avviare misurazione cintura e braccialetto"
+                        }
+                    ]
+                },
+                "userId": 44,
+                "customAttributes": {},
+                "createdAt": "2026-05-04T07:57:54.035+00:00",
+                "updatedAt": "2026-05-04T07:57:54.035+00:00",
+                "monitored": false
+            },
+            {
+                "id": 99,
+                "description": "Soletta Dx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 45,
+                "customAttributes": {
+                    "mac": "5E:E3:F0:0D:71:21"
+                },
+                "createdAt": "2026-05-04T07:46:08.761+00:00",
+                "updatedAt": "2026-05-04T07:46:08.761+00:00",
+                "monitored": false
+            },
+            {
+                "id": 103,
+                "description": "Soletta Sx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 45,
+                "customAttributes": {
+                    "mac": "A1:61:90:EB:A7:30"
+                },
+                "createdAt": "2026-05-04T07:49:18.951+00:00",
+                "updatedAt": "2026-05-04T07:49:18.951+00:00",
+                "monitored": false
+            },
+            {
+                "id": 68,
+                "description": "Guanti smart",
+                "deviceType": {
+                    "id": 8,
+                    "title": "Guanti",
+                    "description": "Guanti smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 2,
+                            "description": "Avviare misurazione con guanto"
+                        }
+                    ],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {},
+                "createdAt": "2025-03-12T08:27:37.116+00:00",
+                "updatedAt": "2025-06-10T19:03:17.899+00:00",
+                "monitored": true
+            },
+            {
+                "id": 111,
+                "description": "Cintura smart3",
+                "deviceType": {
+                    "id": 4,
+                    "title": "Smart Belt",
+                    "description": "Cintura smart",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 45,
+                "customAttributes": {
+                    "mac": "F0:BD:4B:13:A1:B6"
+                },
+                "createdAt": "2026-05-04T07:54:51.213+00:00",
+                "updatedAt": "2026-05-04T07:54:51.213+00:00",
+                "monitored": false
+            },
+            {
+                "id": 115,
+                "description": "Smart Belt + Smart Bracelet",
+                "deviceType": {
+                    "id": 30,
+                    "title": "Smart Belt + Smart Bracelet",
+                    "description": "Kit Cintura smart + Bracciale Smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 10,
+                            "description": "Avviare misurazione cintura e braccialetto"
+                        }
+                    ]
+                },
+                "userId": 45,
+                "customAttributes": {},
+                "createdAt": "2026-05-04T07:57:59.237+00:00",
+                "updatedAt": "2026-05-04T07:57:59.237+00:00",
+                "monitored": false
+            },
+            {
+                "id": 100,
+                "description": "Soletta Dx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 66,
+                "customAttributes": {
+                    "mac": "9B:FA:57:63:C4:28"
+                },
+                "createdAt": "2026-05-04T07:46:32.815+00:00",
+                "updatedAt": "2026-05-04T07:46:32.815+00:00",
+                "monitored": false
+            },
+            {
+                "id": 101,
+                "description": "Soletta Dx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 67,
+                "customAttributes": {
+                    "mac": "88:2C:97:13:F9:2E"
+                },
+                "createdAt": "2026-05-04T07:46:56.980+00:00",
+                "updatedAt": "2026-05-04T07:46:56.980+00:00",
+                "monitored": false
+            },
+            {
+                "id": 104,
+                "description": "Soletta Sx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 66,
+                "customAttributes": {
+                    "mac": "F5:04:D1:47:20:D0"
+                },
+                "createdAt": "2026-05-04T07:49:39.239+00:00",
+                "updatedAt": "2026-05-04T07:49:39.239+00:00",
+                "monitored": false
+            },
+            {
+                "id": 105,
+                "description": "Soletta Sx",
+                "deviceType": {
+                    "id": 28,
+                    "title": "Smart Footbed",
+                    "description": "Solette",
+                    "activityDescriptions": [
+                        {
+                            "id": 9,
+                            "description": "Avviare misurazione plantare"
+                        }
+                    ],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 67,
+                "customAttributes": {
+                    "mac": "B5:36:4B:D3:B9:42"
+                },
+                "createdAt": "2026-05-04T07:50:15.707+00:00",
+                "updatedAt": "2026-05-04T07:50:15.707+00:00",
+                "monitored": false
+            },
+            {
+                "id": 108,
+                "description": "Braccialetto smart4",
+                "deviceType": {
+                    "id": 5,
+                    "title": "Smart Bracelet",
+                    "description": "Braccialetto smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 8,
+                            "description": "Avviare misurazione braccialetto"
+                        }
+                    ],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 66,
+                "customAttributes": {
+                    "mac": "B2:4A:13:46:A3:FB"
+                },
+                "createdAt": "2026-05-04T07:53:04.642+00:00",
+                "updatedAt": "2026-05-04T07:53:04.642+00:00",
+                "monitored": false
+            },
+            {
+                "id": 84,
+                "description": "Cuscino smart",
+                "deviceType": {
+                    "id": 7,
+                    "title": "Cuscino",
+                    "description": "Cuscino smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 3,
+                            "description": "Esercizio riabilitativo sul cuscino: chinarsi tutto in avanti"
+                        },
+                        {
+                            "id": 4,
+                            "description": "Esercizio riabilitativo sul cuscino: chinarsi tutto a destra"
+                        },
+                        {
+                            "id": 5,
+                            "description": "Esercizio riabilitativo sul cuscino: chinarsi tutto a sinistra"
+                        }
+                    ],
+                    "createdAt": "2025-03-11T09:36:25.388+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {},
+                "createdAt": "2026-01-28T09:45:11.651+00:00",
+                "updatedAt": "2026-01-30T09:46:50.696+00:00",
+                "monitored": true
+            },
+            {
+                "id": 109,
+                "description": "Braccialetto smart5",
+                "deviceType": {
+                    "id": 5,
+                    "title": "Smart Bracelet",
+                    "description": "Braccialetto smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 8,
+                            "description": "Avviare misurazione braccialetto"
+                        }
+                    ],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 67,
+                "customAttributes": {
+                    "mac": "D4:A1:13:EE:3C:7B"
+                },
+                "createdAt": "2026-05-04T07:53:25.312+00:00",
+                "updatedAt": "2026-05-04T07:53:25.312+00:00",
+                "monitored": false
+            },
+            {
+                "id": 112,
+                "description": "Cintura smart4",
+                "deviceType": {
+                    "id": 4,
+                    "title": "Smart Belt",
+                    "description": "Cintura smart",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 66,
+                "customAttributes": {
+                    "mac": "31:3B:82:27:CF:81"
+                },
+                "createdAt": "2026-05-04T07:55:10.160+00:00",
+                "updatedAt": "2026-05-04T07:55:10.160+00:00",
+                "monitored": false
+            },
+            {
+                "id": 113,
+                "description": "Cintura smart5",
+                "deviceType": {
+                    "id": 4,
+                    "title": "Smart Belt",
+                    "description": "Cintura smart",
+                    "activityDescriptions": [],
+                    "createdAt": "2024-08-06T13:07:54.001+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 67,
+                "customAttributes": {
+                    "mac": "88:9F:A0:01:6A:86"
+                },
+                "createdAt": "2026-05-04T07:56:01.983+00:00",
+                "updatedAt": "2026-05-04T07:56:01.983+00:00",
+                "monitored": false
+            },
+            {
+                "id": 120,
+                "description": "Smart Devices Gateway",
+                "deviceType": {
+                    "id": 31,
+                    "title": "Gateway",
+                    "description": "Smart Devices Gateway",
+                    "activityDescriptions": []
+                },
+                "userId": 67,
+                "customAttributes": {},
+                "createdAt": "2026-05-06T12:54:47.006+00:00",
+                "updatedAt": "2026-05-06T13:02:19.991+00:00",
+                "monitored": true
+            },
+            {
+                "id": 116,
+                "description": "Smart Belt + Smart Bracelet",
+                "deviceType": {
+                    "id": 30,
+                    "title": "Smart Belt + Smart Bracelet",
+                    "description": "Kit Cintura smart + Bracciale Smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 10,
+                            "description": "Avviare misurazione cintura e braccialetto"
+                        }
+                    ]
+                },
+                "userId": 66,
+                "customAttributes": {},
+                "createdAt": "2026-05-04T07:58:04.816+00:00",
+                "updatedAt": "2026-05-04T07:58:04.816+00:00",
+                "monitored": false
+            },
+            {
+                "id": 117,
+                "description": "Smart Belt + Smart Bracelet",
+                "deviceType": {
+                    "id": 30,
+                    "title": "Smart Belt + Smart Bracelet",
+                    "description": "Kit Cintura smart + Bracciale Smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 10,
+                            "description": "Avviare misurazione cintura e braccialetto"
+                        }
+                    ]
+                },
+                "userId": 67,
+                "customAttributes": {},
+                "createdAt": "2026-05-04T07:58:10.257+00:00",
+                "updatedAt": "2026-05-04T07:58:10.257+00:00",
+                "monitored": false
+            },
+            {
+                "id": 121,
+                "description": "Smart Devices Gateway",
+                "deviceType": {
+                    "id": 31,
+                    "title": "Gateway",
+                    "description": "Smart Devices Gateway",
+                    "activityDescriptions": []
+                },
+                "userId": 45,
+                "customAttributes": {},
+                "createdAt": "2026-05-06T12:54:57.137+00:00",
+                "updatedAt": "2026-05-06T13:02:16.860+00:00",
+                "monitored": true
+            },
+            {
+                "id": 107,
+                "description": "Braccialetto smart3",
+                "deviceType": {
+                    "id": 5,
+                    "title": "Smart Bracelet",
+                    "description": "Braccialetto smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 8,
+                            "description": "Avviare misurazione braccialetto"
+                        }
+                    ],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 45,
+                "customAttributes": {
+                    "mac": "5B:B1:98:A2:BB:DA"
+                },
+                "createdAt": "2026-05-04T07:52:37.201+00:00",
+                "updatedAt": "2026-05-08T09:18:58.251+00:00",
+                "monitored": false
+            },
+            {
+                "id": 5,
+                "description": "Braccialetto smart",
+                "deviceType": {
+                    "id": 5,
+                    "title": "Smart Bracelet",
+                    "description": "Braccialetto smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 8,
+                            "description": "Avviare misurazione braccialetto"
+                        }
+                    ],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {
+                    "mac": "FA:5B:4B:8A:A3:83"
+                },
+                "createdAt": "2025-03-11T16:36:35.723+00:00",
+                "updatedAt": "2026-05-12T10:08:55.882+00:00",
+                "monitored": true
+            },
+            {
+                "id": 106,
+                "description": "Braccialetto smart2",
+                "deviceType": {
+                    "id": 5,
+                    "title": "Smart Bracelet",
+                    "description": "Braccialetto smart",
+                    "activityDescriptions": [
+                        {
+                            "id": 8,
+                            "description": "Avviare misurazione braccialetto"
+                        }
+                    ],
+                    "createdAt": "2025-01-31T02:42:09.000+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 44,
+                "customAttributes": {
+                    "mac": "6D:12:A3:AF:78:69"
+                },
+                "createdAt": "2026-05-04T07:52:14.672+00:00",
+                "updatedAt": "2026-05-12T10:09:23.125+00:00",
+                "monitored": false
+            },
+            {
+                "id": 93,
+                "description": "Ombrello",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 44,
+                "customAttributes": {
+                    "lastPosition": "Soggiorno",
+                    "lastPositionUpdate": 1778596482,
+                    "tag": "3"
+                },
+                "createdAt": "2026-02-05T09:39:28.048+00:00",
+                "updatedAt": "2026-05-12T14:34:42.129+00:00",
+                "monitored": true
+            },
+            {
+                "id": 81,
+                "description": "Telecomando",
+                "deviceType": {
+                    "id": 9,
+                    "title": "Beacon bluetooth",
+                    "description": "Misurano la distanza tra ancore e vari asset",
+                    "activityDescriptions": [],
+                    "createdAt": "2025-03-11T09:37:11.308+00:00",
+                    "updatedAt": "2025-01-31T02:42:09.000+00:00"
+                },
+                "userId": 28,
+                "customAttributes": {
+                    "lastPosition": "Soggiorno",
+                    "lastPositionUpdate": 1779801996,
+                    "tag": "2"
+                },
+                "createdAt": "2025-09-24T10:13:42.226+00:00",
+                "updatedAt": "2026-05-26T13:26:37.019+00:00",
+                "monitored": true
+            }
+        ],
+        "pagination": {
+            "total": 59,
+            "lastPage": 1,
+            "currentPage": 1,
+            "limit": 59
+        }
+    },
+    "timestamp": 1779810260007,
+    "error": false
+}
